@@ -2,6 +2,7 @@ title: Collage 01
 themes: /home/jmramoss/almacen/ORLAS/collages/themes.svd
 repository: /home/jmramoss/almacen/ORLAS/collages/clips
 resources: /home/jmramoss/almacen/ORLAS/collages/
+#random: "true"
 templates: [
   {
     template: collage01.svg
