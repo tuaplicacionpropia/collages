@@ -1,6 +1,8 @@
 collages |License MIT|
 ==========================
 
+Depende de text2img
+
 vintage01. Colección de marcos de foto vintage
 http://www.freepik.es/vector-gratis/coleccion-de-marcos-de-foto-vintage_823839.htm
 <a href='http://www.freepik.es/vector-gratis/coleccion-de-marcos-de-foto-vintage_823839.htm'>Designed by Freepik</a>
@@ -12,6 +14,10 @@ Resultados:
     .. image:: https://github.com/tuaplicacionpropia/collages/raw/master/samples/vintage01_U0p18U.jpg
     .. image:: https://github.com/tuaplicacionpropia/collages/raw/master/samples/vintage01_2g2WB7.jpg
     .. image:: https://github.com/tuaplicacionpropia/collages/raw/master/samples/vintage01_XY5Kvi.jpg
+
+    .. image:: https://github.com/tuaplicacionpropia/collages/raw/master/samples/vintage01_a85qLB.jpg
+    .. image:: https://github.com/tuaplicacionpropia/collages/raw/master/samples/vintage02_xN6RrZ.jpg
+    .. image:: https://github.com/tuaplicacionpropia/collages/raw/master/samples/vintage03_al1K9M.jpg
 
 Usage:
 python -c "import sys; from text2img import SvgManager; SvgManager.generate(sys.argv)" /home/jmramoss/almacen/ORLAS/collages/base.svd
