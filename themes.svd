@@ -1,8 +1,36 @@
 vintage01: {
   background: vintage01
   clips: [
-    vintage/vintage01a
     vintage/vintage01b
+    vintage/vintage01b1
+    vintage/vintage01b2
+    vintage/vintage01b3
+  ]
+}
+vintage02: {
+  background: vintage01
+  clips: [
+    vintage/vintage01a
+    vintage/vintage01a1
+    vintage/vintage01a2
+    vintage/vintage01a3
+    vintage/vintage01b
+    vintage/vintage01b1
+    vintage/vintage01b2
+    vintage/vintage01b3
+  ]
+}
+vintage03: {
+  background: vintage01
+  clips: [
+    vintage/vintage01a
+    vintage/vintage01a1
+    vintage/vintage01a2
+    vintage/vintage01a3
+    vintage/vintage01b
+    vintage/vintage01b1
+    vintage/vintage01b2
+    vintage/vintage01b3
     vintage/vintage01c
   ]
 }
