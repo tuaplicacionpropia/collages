@@ -1,0 +1,61 @@
+title: Collage 01
+themes: /home/jmramoss/almacen/ORLAS/collages/themes.svd
+repository: /home/jmramoss/almacen/ORLAS/collages/clips
+resources: /home/jmramoss/almacen/ORLAS/collages/
+templates: [
+  {
+    template: collage01.svg
+/*
+    themes: [
+      t2_theme03
+    ]
+*/
+  }
+/*
+  {
+    template: orla_type3.svg
+    themes: [
+      t2_theme03
+    ]
+  }
+*/
+]
+clips: [
+  {
+    title: boat-house
+    image: resources/boat-house-192990_960_720.jpg
+  }
+  {
+    title: cow
+    image: resources/cow-431729_960_720.jpg
+  }
+  {
+    title: eilean-donan-castle
+    image: resources/eilean-donan-castle-650681_960_720.jpg
+  }
+  {
+    title: ethereal
+    image: resources/ethereal-1600407_960_720.jpg
+  }
+  {
+    title: ethereal
+    image: resources/ethereal-1600430_960_720.jpg
+  }
+  {
+    title: landscape
+    image: resources/landscape-192985_960_720.jpg
+  }
+  {
+    title: landscape
+    image: resources/landscape-192987_960_720.jpg
+  }
+  {
+    title: rock
+    image: resources/rock-192989_960_720.jpg
+  }
+  {
+    title: scotland
+    image: resources/scotland-1761292_960_720.jpg
+  }
+]
+

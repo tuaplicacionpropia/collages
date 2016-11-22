@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1488.189"
+   height="1052.3622"
+   viewBox="0 0 1488.189 1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="collage01.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.34666614"
+     inkscape:cx="1175.5051"
+     inkscape:cy="426.00379"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:description>import random
+
+theme = data['theme']
+
+if 'background' in theme:
+  svg.setPart('background', 'backgrounds/' + theme['background'] + '.svg', data)
+else:
+  svg.removeById('background')
+
+numClips = len(data['clips'])
+#print 'numClips = ' + str(numClips)
+
+svgClips = random.sample(theme['clips'], numClips)
+
+idx = 1
+while idx &lt;= numClips:
+  clip = data['clips'][idx - 1]
+  partName = 'clip' + str('0' if idx &lt; 10 else '') + str(idx)
+  #print 'partName = ' + partName
+  partSvg = svgClips[idx - 1] + '.svg'
+  svg.setPart(partName, partSvg, clip)
+  idx += 1
+
+idx = numClips + 1
+while idx &lt;= 9:
+  partName = 'clip' + str('0' if idx &lt; 10 else '') + str(idx)
+  svg.removeById(partName)
+  idx += 1
+</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-3.0519555e-5)">
+    <rect
+       style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.14096689;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="background"
+       width="1484.0481"
+       height="1048.2212"
+       x="2.0704346"
+       y="2.0705261" />
+    <rect
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:2.76267743px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="clip01"
+       width="206.4492"
+       height="278.47308"
+       x="68.327301"
+       y="53.23558" />
+    <rect
+       y="53.23558"
+       x="316.4046"
+       height="278.47308"
+       width="206.4492"
+       id="clip02"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:2.76267743px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="475.49707"
+       x="60.780407"
+       height="443.56705"
+       width="420.58173"
+       id="clip09"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:4.9766469px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:4.65873098px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="clip05"
+       width="591.09222"
+       height="276.57703"
+       x="135.62158"
+       y="284.95319" />
+    <rect
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:5.40303612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="clip04"
+       width="454.77075"
+       height="483.52536"
+       x="989.84119"
+       y="48.786522" />
+    <rect
+       y="56.709518"
+       x="544.87891"
+       height="239.79436"
+       width="487.96329"
+       id="clip03"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:3.94134998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:3.63923192px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="clip06"
+       width="294.99588"
+       height="338.17355"
+       x="740.88202"
+       y="321.94348" />
+    <rect
+       y="549.82843"
+       x="1055.3055"
+       height="338.17355"
+       width="294.99588"
+       id="clip07"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:3.63923192px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:4.77556515px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="clip08"
+       width="602.51385"
+       height="285.11407"
+       x="496.25742"
+       y="674.43524" />
+  </g>
+</svg>
