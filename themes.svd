@@ -34,4 +34,10 @@ vintage03: {
     vintage/vintage01c
   ]
 }
+vintage_test: {
+  background: vintage01
+  clips: [
+    vintage/vintage01a
+  ]
+}
 
