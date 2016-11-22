@@ -62,6 +62,9 @@ else:
 numClips = len(data['clips'])
 #print 'numClips = ' + str(numClips)
 
+clips = data['clips']
+clips = random.sample(clips, numClips)
+
 svgClips = random.sample(theme['clips'], numClips)
 
 idx = 1

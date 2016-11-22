@@ -10,6 +10,8 @@ http://www.freepik.es/vector-gratis/coleccion-de-marcos-de-foto-vintage_823839.h
 Resultados:
     .. image:: https://github.com/tuaplicacionpropia/collages/raw/master/samples/vintage01_8qahek.jpg
     .. image:: https://github.com/tuaplicacionpropia/collages/raw/master/samples/vintage01_U0p18U.jpg
+    .. image:: https://github.com/tuaplicacionpropia/collages/raw/master/samples/vintage01_6TLwe4.jpg
+    .. image:: https://github.com/tuaplicacionpropia/collages/raw/master/samples/vintage01_iuByvG.jpg
 
 Usage:
 python -c "import sys; from text2img import SvgManager; SvgManager.generate(sys.argv)" /home/jmramoss/almacen/ORLAS/collages/base.svd
