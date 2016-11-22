@@ -59,13 +59,28 @@ if 'background' in theme:
 else:
   svg.removeById('background')
 
-numClips = len(data['clips'])
+clips = data['clips']
+numClips = len(clips)
 #print 'numClips = ' + str(numClips)
 
-clips = data['clips']
-clips = random.sample(clips, numClips)
+if 'random' in data and data['random'] == 'true':
+  clips = random.sample(clips, numClips)
 
-svgClips = random.sample(theme['clips'], numClips)
+themeClips = theme['clips']
+numThemeClips = len(themeClips)
+svgClips = []
+#svgClips = random.sample(theme['clips'], numClips)
+idx = 0
+while idx &lt; numClips:
+  #print 'idx = ' + str(idx)
+  clipIdx = random.randint(1, numThemeClips) - 1
+  #print 'clipIdx = ' + str(clipIdx)
+  #print 'len = ' + str(len(themeClips))
+  svgClips.append(themeClips[clipIdx])
+  idx += 1
+
+
+
 
 idx = 1
 while idx &lt;= numClips:
