@@ -69,7 +69,7 @@ svgClips = random.sample(theme['clips'], numClips)
 
 idx = 1
 while idx &lt;= numClips:
-  clip = data['clips'][idx - 1]
+  clip = clips[idx - 1]
   partName = 'clip' + str('0' if idx &lt; 10 else '') + str(idx)
   #print 'partName = ' + partName
   partSvg = svgClips[idx - 1] + '.svg'
