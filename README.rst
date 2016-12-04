@@ -69,6 +69,23 @@ http://www.freepik.es/vector-gratis/pegatinas-redondas-del-dia-de-la-madre-de-ac
 
     .. image:: https://github.com/tuaplicacionpropia/collages/raw/master/samples/pegatinas-redondas-del-dia-de-la-madre-de-acuarela_23-2147547644.jpg
 
+cards04. Marco del resorte de la acuarela con las hojas y las flores
+<a href='http://www.freepik.es/vector-gratis/marco-del-resorte-de-la-acuarela-con-las-hojas-y-las-flores_842220.htm'>Designed by Freepik</a>
+http://www.freepik.es/vector-gratis/marco-del-resorte-de-la-acuarela-con-las-hojas-y-las-flores_842220.htm#term=flower&page=1&position=38
+
+    .. image:: https://github.com/tuaplicacionpropia/collages/raw/master/samples/marco-del-resorte-de-la-acuarela-con-las-hojas-y-las-flores_23-2147540672.jpg
+
+
+Fondos:
+
+flower01. Fondo de marco floral
+<a href='http://www.freepik.es/vector-gratis/fondo-de-marco-floral_846527.htm'>Designed by Freepik</a>
+http://www.freepik.es/vector-gratis/fondo-de-marco-floral_846527.htm#term=fondo&page=1&position=33
+
+    .. image:: https://github.com/tuaplicacionpropia/collages/raw/master/samples/fondo-de-marco-floral_1073-88.jpg
+
+http://www.freepik.es/vector-gratis/diseno-de-buho-dibujado-a-mano_854158.htm
+
 
 
 Resultados:
@@ -109,4 +126,6 @@ https://pixabay.com/es/hermanos-ni%C3%B1os-familia-ni%C3%B1o-feliz-1022994/
 https://pixabay.com/es/beb%C3%A9-modelos-para-beb%C3%A9s-ni%C3%B1os-772453/
 https://pixabay.com/es/ni%C3%B1o-graduaci%C3%B3n-jard%C3%ADn-de-infantes-526223/
 https://pixabay.com/es/ni%C3%B1o-retrato-ni%C3%B1os-lindo-personas-532121/
+http://www.freepik.es/iconos-gratis/foto-instagram-logo-camara-esquema_730964.htm
+<div>Icons made by <a href="http://www.flaticon.com/authors/coucou" title="Coucou">Coucou</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
